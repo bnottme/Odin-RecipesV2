@@ -6,13 +6,13 @@
 * This project was developed to apply and reinforce my understanding of core HTML concepts. It includes multiple linked recipe pages and displays images, lists, and structured content effectively.
 
 ## What I Learned
-* How to use the <a> (anchor) element to link between HTML pages.
+* How to use the a (anchor) element to link between HTML pages.
 
-* How to display images using the <img> element and apply attributes such as alt, height, and width.
+* How to display images using the img element and apply attributes such as alt, height, and width.
 
-* The difference between ordered (<ol>) and unordered (<ul>) lists, and how to implement them.
+* The difference between ordered ol and unordered ul lists, and how to implement them.
 
-* The use of semantic HTML elements like <header>, <p> (paragraph), and others for organizing content properly.
+* The use of semantic HTML elements like header p, and others for organizing content properly.
 
 ## Future Plans
 * Style the project using CSS for improved visual design.
